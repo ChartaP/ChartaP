@@ -1,16 +1,24 @@
-### Hi there 👋
+Resume
+===========================
+# 1. Introduce
+## 1.1 Personal information
+ * **Name : Kil Han-Eol**
+ * **Email : paper2402@gmail.com**
+ * **Github : https://github.com/ChartaP**
+## 1.2 학력
+### 1.2.1 고등학교
+  ```
+  한국게임과학고등학교 프로그래밍 전공
+  2013 입학 ~ 2016 졸업
+  ```
+### 1.2.2 대학교
+  ```
+  한림대학교
+  컴퓨터공학 -> 콘텐츠IT
+  2016 입학 ~ 재학중
+  ```
+## 1.3 경력
 
-<!--
-**ChartaP/ChartaP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 2. 기술
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 3. 이력

@@ -46,3 +46,7 @@ https://github.com/ChartaP/RocketDeliveryProject
 ## 3.8 코로나 게임
 2020
 https://github.com/ChartaP/Covid
+
+## 3.9 조주기능사 시뮬레이션
+2023
+https://github.com/ChartaP/metabar

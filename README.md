@@ -27,7 +27,7 @@ Resume
 https://github.com/ChartaP/UNTERSEEBOOT
 ## 3.2 술래잡기게임 Time of Darkness
 2015
-https://github.com/ChartaP/UNTERSEEBOOT
+https://github.com/ChartaP/SchoolRun
 ## 3.3 해상전략게임 Fleet
 2016
 https://github.com/ChartaP/FleetRepo

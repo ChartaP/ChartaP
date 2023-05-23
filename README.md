@@ -37,12 +37,12 @@ https://github.com/ChartaP/BurgerKingGit
 ## 3.5 전략게임 Dynasty & Dominator
 2019
 https://github.com/ChartaP/BattleProject
-## 3.6 콜로세움
-2020
-https://github.com/ChartaP/Colosseum
-## 3.7 로켓 딜리버리
+## 3.6 로켓 딜리버리
 2019
 https://github.com/ChartaP/RocketDeliveryProject
+## 3.7 콜로세움
+2020
+https://github.com/ChartaP/Colosseum
 ## 3.8 코로나 게임
 2020
 https://github.com/ChartaP/Covid

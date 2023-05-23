@@ -41,7 +41,7 @@ https://github.com/ChartaP/BattleProject
 2020
 https://github.com/ChartaP/Colosseum
 ## 3.7 로켓 딜리버리
-2020
+2019
 https://github.com/ChartaP/RocketDeliveryProject
 ## 3.8 코로나 게임
 2020

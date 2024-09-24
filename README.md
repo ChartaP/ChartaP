@@ -38,6 +38,7 @@ Resume
 ## 3.4 2020년
  * [콜로세움](https://github.com/ChartaP/Colosseum)
  * [코로나 게임](https://github.com/ChartaP/Covid)
+ * [SubtitleRenamingAuto](https://github.com/ChartaP/SubtitleRenamingAuto)
 ## 3.5 2023년
  * [조주기능사 시뮬레이션](https://github.com/ChartaP/metabar)
  * [국립광주박물관 도자기게임]

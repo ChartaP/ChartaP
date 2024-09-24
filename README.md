@@ -25,7 +25,7 @@ Resume
   ```
 # 2. 기술
 
-# 3. 작품
+# 3. 활동
 ## 3.1 잠수함게임 UNTERSEEBOOT
 2015
 https://github.com/ChartaP/UNTERSEEBOOT

@@ -3,7 +3,7 @@ Resume
 # 1. Introduce
 ## 1.1 Personal information
  * **Name : Kil Han-Eol**
- * **Email : paper2402@gmail.com**
+ * **Email : papernote39@gmail.com**
  * **Github : https://github.com/ChartaP**
 ## 1.2 학력
 ### 1.2.1 고등학교

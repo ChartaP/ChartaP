@@ -40,3 +40,9 @@ Resume
  * [코로나 게임](https://github.com/ChartaP/Covid)
 ## 3.5 2023년
  * [조주기능사 시뮬레이션](https://github.com/ChartaP/metabar)
+ * [국립광주박물관 도자기게임]
+ * [DMZ AR 동식물원]
+ * [백제군사박물관 백제성쌓기 체험]
+## 3.6 2024년
+ * [어린이국세청 세금게임](https://taxwebgame.link/)
+ * [대구읍성영상관 인터렉트 영상]
